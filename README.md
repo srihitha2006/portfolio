@@ -1,1 +1,1 @@
-# portfolio
+This portfolio, accessible at https://srihitha2006.github.io/portfolio/, is a personal project designed to showcase my skills, experiences, and achievements as a web developer. This portfolio was made using html , css and javascript. It consists of various sections which includes about myself , my education , my projects , my achievements and finally my contact. i ensured that website had a nice and a simple yet beautiful design. 
